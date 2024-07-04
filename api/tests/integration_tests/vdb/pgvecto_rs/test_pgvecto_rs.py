@@ -14,9 +14,9 @@ class PGVectoRSVectorTest(AbstractVectorTest):
             config=PgvectoRSConfig(
                 host="localhost",
                 port=5431,
-                user="postgres",
-                password="difyai123456",
-                database="dify",
+                user='postgres',
+                password='myai654321',
+                database='dify',
             ),
             dim=128,
         )
