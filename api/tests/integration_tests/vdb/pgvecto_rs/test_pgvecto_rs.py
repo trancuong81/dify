@@ -15,7 +15,7 @@ class PGVectoRSVectorTest(AbstractVectorTest):
                 host='localhost',
                 port=5431,
                 user='postgres',
-                password='difyai123456',
+                password='myai654321',
                 database='dify',
             ),
             dim=128
